@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExternalProviderAuthentication.iOS/ExternalProviderAuthentication.iOSViewController.cs">
+    <Files>
+      <File FileName="ExternalProviderAuthentication.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ExternalProviderAuthentication.iOS/ExternalProviderAuthentication.iOSViewController.cs" Line="71" Column="35" />
+      <File FileName="ExternalProviderAuthentication.iOS/BrowserLoginViewController.cs" Line="75" Column="5" />
+      <File FileName="ExternalProviderAuthentication.iOS/AuthenticationServices.cs" Line="96" Column="5" />
+      <File FileName="ExternalProviderAuthentication.iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
